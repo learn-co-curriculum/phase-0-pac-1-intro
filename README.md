@@ -61,17 +61,23 @@ _terrible_ about handling unclear directions. To help prevent communication
 breakdowns, we converse with them using a special notation. The "special
 notation" is the programming language's rules or "syntax."
 
-> **DEFINITION** Notation: A specialized vocabulary or system of symbols for communication. **Examples** Musical notation, arithmetic symbols, chemistry symbols, traffic signs, or knitting patterns.
+> **DEFINITION** Notation: A specialized vocabulary or system of symbols for
+> communication. **Examples** Musical notation, arithmetic symbols, chemistry
+> symbols, traffic signs, or knitting patterns.
 
 ## Programming Defined
 
 Let's propose a definition of programming:
 
-> **DEFINITION** Programming: The act of creating programs, documents written in a notation system that can be understood by other humans _as well as_ computers.
+> **DEFINITION** Programming: The act of creating programs, documents written in
+> a notation system that can be understood by other humans _as well as_
+> computers.
 
 ## Programming Language Defined
 
-> **DEFINITION** Programming Language: A programming language defines the rules of notation ("syntax") that are required for it to ask the computer to do work on your behalf.
+> **DEFINITION** Programming Language: A programming language defines the rules
+> of notation ("syntax") that are required for it to ask the computer to do work
+> on your behalf.
 
 When programmers say "I prefer Ruby to JavaScript" they're saying "I like the
 notation system that Ruby uses for expressing problems and their solutions."
