@@ -131,6 +131,9 @@ error_. Computers require us to honor _their_ ***limited*** vocabulary. Syntax
 errors are prompts from the programming language to help steer _our_
 communication to be more precise.
 
+**Note**: At any point, you can clear the console by clicking the `X` in the
+upper right corner.
+
 When we follow the rules and adhere to the syntax, however, JavaScript will
 return something to us. This time, try typing `1 + 1` into the console window.
 (Don't forget to hit enter.) You should see the following:
