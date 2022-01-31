@@ -130,6 +130,9 @@ error_. Computers require us to honor _their_ ***limited*** vocabulary. Syntax
 errors are prompts from the programming language to help steer _our_
 communication to be more precise.
 
+**Note**: At any point, you can clear the console by clicking the `X` in the
+upper right corner.
+
 When we follow the rules and adhere to the syntax, JavaScript will return
 something to us:
 
